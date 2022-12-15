@@ -1,6 +1,5 @@
 // @ts-check
 module.exports = {
-  plugins: [require.resolve('@prettier/plugin-pug')],
   tabWidth: 2,
   printWidth: 100,
   arrowParens: 'avoid',
