@@ -8,5 +8,6 @@ module.exports = {
   proseWrap: 'preserve',
   requirePragma: false,
   bracketSpacing: true,
-  trailingComma: 'none'
+  trailingComma: 'none',
+  endOfLine: 'lf'
 }
