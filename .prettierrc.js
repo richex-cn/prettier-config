@@ -1,8 +1,4 @@
 // @ts-check
-
-/**
- * @type {import('prettier').Options}
- */
 module.exports = {
   plugins: [require.resolve('@prettier/plugin-pug')],
   tabWidth: 2,

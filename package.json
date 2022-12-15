@@ -3,6 +3,7 @@
   "version": "0.1.1",
   "description": "A Prettier config for anyone.",
   "main": ".prettierrc.js",
+  "types": ".prettierrc.d.ts",
   "keywords": [
     "prettier",
     "config"
