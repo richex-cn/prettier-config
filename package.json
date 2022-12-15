@@ -8,5 +8,9 @@
     "config"
   ],
   "author": "Richex <i@richex.cn>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/prettier": "^2.7.1",
+    "prettier": "^2.8.1"
+  }
 }
