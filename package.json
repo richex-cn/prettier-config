@@ -1,6 +1,6 @@
 {
   "name": "@richex/prettier-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Prettier config for anyone.",
   "main": ".prettierrc.js",
   "types": ".prettierrc.d.ts",
