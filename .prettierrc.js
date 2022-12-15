@@ -1,4 +1,5 @@
 // @ts-check
+/** @type {import('prettier').Options} */
 module.exports = {
   tabWidth: 2,
   printWidth: 100,
