@@ -1,0 +1,12 @@
+{
+  "name": "@richex/prettier-config",
+  "version": "0.0.0",
+  "description": "A Prettier config for anyone.",
+  "main": ".prettierrc.js",
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "Richex <i@richex.cn>",
+  "license": "MIT"
+}
