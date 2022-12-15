@@ -10,5 +10,6 @@ module.exports = {
   requirePragma: false,
   bracketSpacing: true,
   trailingComma: 'none',
-  endOfLine: 'lf'
+  endOfLine: 'lf',
+  bracketSameLine: true
 }
