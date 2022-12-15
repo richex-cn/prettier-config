@@ -23,5 +23,5 @@ There is also an editorconfig configuration file that you can download to your p
 
 ```sh
 $ cd path/to/your-project/
-$ wget https://raw.githubusercontent.com/richex-cn/prettier-config/main/index.json
+$ wget https://raw.githubusercontent.com/richex-cn/prettier-config/main/.editorconfig
 ```
