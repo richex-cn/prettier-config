@@ -3,7 +3,7 @@
 /**
  * @type {import('prettier').Options}
  */
-modulex.exports = {
+module.exports = {
   plugins: [require.resolve('@prettier/plugin-pug')],
   tabWidth: 2,
   printWidth: 100,
