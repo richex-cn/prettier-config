@@ -12,6 +12,7 @@ $ npm i -D @richex/prettier-config
 And update the prettier configuration file (e.g. `.prettierrc.js`) in your project:
 
 ```js
+/** @type {import('prettier').Options} */
 module.exports = {
   ...require("@richex/prettier-config"),
 }
