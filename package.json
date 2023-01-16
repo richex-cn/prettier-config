@@ -9,6 +9,15 @@
     "config"
   ],
   "author": "Richex <i@richex.cn>",
+  "homepage": "https://github.com/richex-cn/prettier-config.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richex-cn/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/richex-cn/prettier-config/issues",
+    "email": "i@richex.cn"
+  },
   "license": "MIT",
   "devDependencies": {
     "@types/prettier": "^2.7.1",
