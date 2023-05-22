@@ -1,4 +1,4 @@
-import type {Options} from 'prettier'
+import type { Options } from 'prettier'
 
 declare const options: Options
 
