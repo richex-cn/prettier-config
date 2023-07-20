@@ -22,5 +22,8 @@
   "devDependencies": {
     "@types/prettier": "^2.7.1",
     "prettier": "^2.8.1"
+  },
+  "peerDependencies": {
+    "prettier": ">= 2.1.0"
   }
 }
